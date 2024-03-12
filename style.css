@@ -1,0 +1,14 @@
+#pal{
+
+    text-align: center;
+}
+
+#btn{
+
+    margin-left: 580px;
+    border-radius: 25px;
+    border: 15px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 30px;
+}
